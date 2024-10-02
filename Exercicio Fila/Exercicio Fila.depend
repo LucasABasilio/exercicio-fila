@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1727895601 source:e:\algoritmo2\exercicio fila\fila.cpp
+	<cstdio>
+	<cstdlib>
+	"Fila.h"
+
+1727895449 e:\algoritmo2\exercicio fila\fila.h
+
+1727895786 source:e:\algoritmo2\exercicio fila\pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1727895647 e:\algoritmo2\exercicio fila\pilha.h
+
+1727896470 source:e:\algoritmo2\exercicio fila\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"Pilha.h"
+	"Fila.h"
+
